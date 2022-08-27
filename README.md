@@ -1,3 +1,3 @@
 # looping programs using recursion
- imma turn a loop program into a recursion one using my ahh immense genuis and un-matched creativitial (if its a word) work.
+ imma turn loop programs into a recursion ones using my uh... immense... genuis and un-matched creativity and sheer will power.
  
