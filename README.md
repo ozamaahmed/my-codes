@@ -1,3 +1,3 @@
-# my code inventions
+# my codes
  random codes which people can get help from
  
